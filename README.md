@@ -19,7 +19,3 @@
 
 ---
 
-## 📊 My GitHub Stats
-
-```bash
-Total Contributions, Streaks, and More ➡️ GitHub calculates this automatically based on your commits.
